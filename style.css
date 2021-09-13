@@ -1,0 +1,44 @@
+.nav-icon-1 {
+    margin-right: 15px;
+  }
+  
+  .nav-icon-2 {
+    margin-right: 15px;
+  }
+  
+  /* .navbar, .hero, #skill, #works, #contact{
+    display: none;
+  } */
+  
+  .top-image {
+    text-align: center;
+    background-image: url(https://i.ibb.co/BVFnPYn/pexels-joshua-t-954289-2.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding: 100px;
+  }
+  
+  .portfolio-title {
+    -webkit-text-stroke: 1px black;
+  }
+  
+  .flexbox{
+    justify-content: space-evenly;
+  }
+  
+  .flex-box{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .contetn-space{
+    padding: 10px;
+  }
+  
+  .text-rgba{
+    opacity: 0;
+  }
+  
+  .progress{
+    display: -webkit-inline-box;
+  }
